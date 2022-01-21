@@ -2,13 +2,13 @@
 
 <>>>- RGBA, HSL, HSLA<<<>
 
->>RGB - Red(%) Blue(%) Green(%)<<
+<>>RGB - Red(%) Blue(%) Green(%)<<>
 
        Red(%) Blue(%) Green(%)
 
 RGBA - 
 
-     Adds a 4th value of opacity to Red Blue Green
+    <>> Adds a 4th value of opacity to Red Blue Green<<<>
 
      This will be more important as we layer elements on top of other elements
 
