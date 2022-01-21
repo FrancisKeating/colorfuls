@@ -2,7 +2,7 @@
 
 <>>>- RGBA, HSL, HSLA<<<>
 
-RGB - Red(%) Blue(%) Green(%)
+>>RGB - Red(%) Blue(%) Green(%)<<
 
        Red(%) Blue(%) Green(%)
 
